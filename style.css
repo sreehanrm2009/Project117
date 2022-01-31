@@ -1,0 +1,16 @@
+body {
+      background-color: #9ACD32;
+      font-family: 'Readex Pro', sans-serif;
+}
+
+#score, #timer {
+      font-size: 20px;
+}
+
+#show_sketch {
+      float: right;
+}
+
+#score {
+      margin-right: 80%;
+}
